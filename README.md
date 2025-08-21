@@ -1,4 +1,4 @@
-# 🌌 Aerian: Guardianes del Equilibrio  
+# 🌌 El Equilibrio Roto  
 Plataformas 2D de fantasía donde la luz y la oscuridad luchan por mantener el equilibrio.  
 
 Proyecto individual del grado DAM-Vi, desarrollado con Unity y FMOD.  
@@ -20,4 +20,4 @@ Proyecto individual del grado DAM-Vi, desarrollado con Unity y FMOD.
 - Implementación de FMOD.  
 
 ## 🔗 Demo  
-Disponible en Itch.io: *(https://adrian-perez-aranda.itch.io/aerian-guardianes-del-equilibrio)*  
+Disponible en Itch.io: *(https://adrian-perez-aranda.itch.io/el-equilibrio-roto)*  
