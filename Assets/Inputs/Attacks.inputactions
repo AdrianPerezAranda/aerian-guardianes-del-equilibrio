@@ -1,0 +1,82 @@
+{
+    "name": "Attacks",
+    "maps": [
+        {
+            "name": "CaC",
+            "id": "bfe1b84e-7964-4a19-8129-28172c519e35",
+            "actions": [
+                {
+                    "name": "CaC",
+                    "type": "Button",
+                    "id": "3f3250e7-16e7-4e22-940c-2a6b4b890e48",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cfd18db1-6439-4f75-bd81-904faf40512b",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CaC",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "SA",
+            "id": "69d19290-3f66-4727-8e9f-62eeb528575e",
+            "actions": [
+                {
+                    "name": "Light",
+                    "type": "Button",
+                    "id": "bf19ae6d-9e9f-4991-867a-48c99ff8c8d4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Darkness",
+                    "type": "Button",
+                    "id": "dff19b59-a686-4fd8-bc70-44122463384e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b69bce97-25db-42e1-925c-484435bfc5c6",
+                    "path": "<Keyboard>/h",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Light",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b6ee94fa-45ae-489d-89a6-5d23eb050562",
+                    "path": "<Keyboard>/j",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Darkness",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

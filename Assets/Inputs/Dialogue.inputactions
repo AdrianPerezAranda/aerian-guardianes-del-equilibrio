@@ -1,0 +1,34 @@
+{
+    "name": "Dialogue",
+    "maps": [
+        {
+            "name": "PasarDialogo",
+            "id": "2b7ad008-6c06-4b9d-a774-84674b3f8110",
+            "actions": [
+                {
+                    "name": "Enter",
+                    "type": "Button",
+                    "id": "2d8941c4-f4b8-4029-aabc-c7c9d6bc9e9c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "85559ae0-101f-457c-80a7-19ca850074a3",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Enter",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

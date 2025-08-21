@@ -1,0 +1,394 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8390801524051520754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Cancion_Principal
+  m_EditorClassIdentifier: 
+  Path: event:/Cancion_Principal
+  Guid:
+    Data1: -1086349842
+    Data2: 1263641351
+    Data3: -1449098350
+    Data4: -1205129693
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7317669054122212089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Proyecto_Individual.bank
+  m_EditorClassIdentifier: 
+  Path: ../Projecto-FMOD/Build/Desktop/Proyecto_Individual.bank
+  Name: Proyecto_Individual
+  StudioPath: bank:/Proyecto_Individual
+  lastModified: 638673756460000000
+  FileSizes:
+  - Name: Desktop
+    Value: 10292704
+  Exists: 1
+--- !u!114 &-4408464273765222289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ataque_CaC_Player
+  m_EditorClassIdentifier: 
+  Path: event:/Ataque_CaC_Player
+  Guid:
+    Data1: 947454214
+    Data2: 1310039045
+    Data3: -370856038
+    Data4: -1323885392
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3940472916792096225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica_Boss_Oscuridad
+  m_EditorClassIdentifier: 
+  Path: event:/Musica_Boss_Oscuridad
+  Guid:
+    Data1: -133050211
+    Data2: 1326842238
+    Data3: 1939314601
+    Data4: -483481447
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3308831874091758730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica_Reino_De_La_Luz
+  m_EditorClassIdentifier: 
+  Path: event:/Musica_Reino_De_La_Luz
+  Guid:
+    Data1: 2048776919
+    Data2: 1309309336
+    Data3: 514607236
+    Data4: 469693777
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2844917868815266304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica_Boss_Luz
+  m_EditorClassIdentifier: 
+  Path: event:/Musica_Boss_Luz
+  Guid:
+    Data1: 867896981
+    Data2: 1199131281
+    Data3: 1139570086
+    Data4: 125676381
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-485587256770708181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica_Reino_De_La_Oscuridad
+  m_EditorClassIdentifier: 
+  Path: event:/Musica_Reino_De_La_Oscuridad
+  Guid:
+    Data1: 1806109910
+    Data2: 1257766092
+    Data3: 2091353783
+    Data4: 1855567
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 328066194599344029}
+  - {fileID: 1669091594999697943}
+  - {fileID: -7317669054122212089}
+  EditorEvents:
+  - {fileID: -8390801524051520754}
+  - {fileID: -4408464273765222289}
+  - {fileID: -2844917868815266304}
+  - {fileID: 4323108564907117703}
+  - {fileID: -3940472916792096225}
+  - {fileID: 35482037360837194}
+  - {fileID: 5192112046187254082}
+  - {fileID: -485587256770708181}
+  - {fileID: -3308831874091758730}
+  - {fileID: 6001740136997043455}
+  - {fileID: 6822388898261440211}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 1669091594999697943}
+  StringsBanks:
+  - {fileID: 328066194599344029}
+  cacheTime: 638673756460000000
+  cacheVersion: 131619
+--- !u!114 &35482037360837194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica_Bosque_Sombrio
+  m_EditorClassIdentifier: 
+  Path: event:/Musica_Bosque_Sombrio
+  Guid:
+    Data1: -1907515953
+    Data2: 1189438000
+    Data3: 118899853
+    Data4: -871023366
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &328066194599344029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Projecto-FMOD/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638673756400000000
+  FileSizes:
+  - Name: Desktop
+    Value: 1428
+  Exists: 1
+--- !u!114 &1669091594999697943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Projecto-FMOD/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638673756400000000
+  FileSizes:
+  - Name: Desktop
+    Value: 1340
+  Exists: 1
+--- !u!114 &4323108564907117703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ataque_Especial_Luz
+  m_EditorClassIdentifier: 
+  Path: event:/Ataque_Especial_Luz
+  Guid:
+    Data1: 718109077
+    Data2: 1111637456
+    Data3: 868863123
+    Data4: -197151131
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5192112046187254082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Atque_Especial_Oscuridad
+  m_EditorClassIdentifier: 
+  Path: event:/Atque_Especial_Oscuridad
+  Guid:
+    Data1: 839772880
+    Data2: 1323620883
+    Data3: 1915659418
+    Data4: 219536650
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6001740136997043455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Salto
+  m_EditorClassIdentifier: 
+  Path: event:/Salto
+  Guid:
+    Data1: 579610589
+    Data2: 1257684755
+    Data3: 1970730645
+    Data4: -153820414
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6822388898261440211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Musica_Boss_Sombra
+  m_EditorClassIdentifier: 
+  Path: event:/Musica_Boss_Sombra
+  Guid:
+    Data1: -304290055
+    Data2: 1132970646
+    Data3: -455844955
+    Data4: 211461516
+  Banks:
+  - {fileID: -7317669054122212089}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
